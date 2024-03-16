@@ -1,5 +1,5 @@
 !/bin/bash
-#Author: lenni
+#Author: h453er
 
 echo '                  -`'
 echo '                 .o+`'
